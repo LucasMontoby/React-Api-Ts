@@ -1,0 +1,19 @@
+/* styles.css */
+h1 {
+    color: #1109eb; /* Cambia el color del texto a tu elección */
+    font-size: 30px; /* Cambia el tamaño de fuente a tu elección */
+  }
+
+ul {
+    list-style-type: none; /* Elimina los marcadores de lista */
+    padding: 0; /* Elimina el espacio interno predeterminado de la lista */
+  }
+  
+  li {
+    margin: 4px 0; /* Espacio vertical entre elementos de la lista */
+    background-color: #f0f0f0; /* Color de fondo de los elementos de la lista */
+    padding: 8px; /* Espacio interno de los elementos de la lista */
+    border: 1px solid #ccc; /* Borde alrededor de los elementos de la lista */
+    border-radius: 4px; /* Bordes redondeados */
+  }
+  
